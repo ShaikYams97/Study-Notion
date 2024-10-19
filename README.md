@@ -10,6 +10,7 @@ Role-based Access: Separate dashboards for students, instructors, and admins.
 Interactive Learning: Watch videos, take quizzes, and track progress.
 Payment Gateway Integration: Easy checkout for premium content.
 Responsive Design: Fully optimized for mobile and desktop platforms.
+
 🛠️ Tech Stack
 Frontend: React.js with React Router for navigation and state management using Redux.
 Backend: Node.js with Express for handling API requests.
